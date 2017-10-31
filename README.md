@@ -16,7 +16,7 @@ Make an account `geth account new` and transfer 0.1 ETH to it.
 
 ## Coming soon
 **Step 2**
-Download btcm-miner `git clone http://github.com/btcm-miner`
+Download btcm-miner `git clone http://github.com/btcm-miner／btcm-miner`
 
 **Step 3**
 Edit `mine_example.sh`: Enter your geth account address and keystore password.
