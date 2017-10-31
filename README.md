@@ -7,6 +7,13 @@ Coming in November
 ## Instructions
 **Step 1**
 Install `geth` and make sure it is synced up to the current block. This may take a while.
+
+In one terminal
+```
+geth --fast --cache=512 console
+```
+
+In another terminal
 ```
 geth attach
 > eth.blockNumber
